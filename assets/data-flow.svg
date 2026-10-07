@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 192" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo de dados do dashboard</title>
+  <desc id="desc">Da planilha RAW à leitura em lote, tratamento, regras de negócio e interface</desc>
+  <rect width="1100" height="192" rx="20" fill="#0f1011"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g fill="#1c201a" stroke="#6f8e3c"><rect x="28" y="44" width="185" height="102" rx="12"/><rect x="243" y="44" width="185" height="102" rx="12"/><rect x="458" y="44" width="185" height="102" rx="12"/><rect x="673" y="44" width="185" height="102" rx="12"/><rect x="888" y="44" width="185" height="102" rx="12"/></g>
+    <g fill="#c9ef72" font-size="19" font-weight="700"><text x="120" y="90">Google Sheets</text><text x="335" y="90">Leitura em lote</text><text x="550" y="90">Tratamento</text><text x="765" y="90">Regras + métricas</text><text x="980" y="90">Dashboard</text></g>
+    <g fill="#c9cfc4" font-size="13"><text x="120" y="117">guia RAW</text><text x="335" y="117">Apps Script</text><text x="550" y="117">normalização</text><text x="765" y="117">projeção + alertas</text><text x="980" y="117">HTML / ECharts</text></g>
+    <g fill="#f2c80f" font-size="23" font-weight="700"><text x="228" y="101">›</text><text x="443" y="101">›</text><text x="658" y="101">›</text><text x="873" y="101">›</text></g>
+  </g>
+</svg>
